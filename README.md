@@ -7,7 +7,7 @@ A decentralized coinflip game built on blockchain, allowing users to connect the
 
 ## Live Demo
 
-Try the live version: [CoinFlip Game](https://your-vercel-url.vercel.app)
+Try the live version: [CoinFlip Game](https://coinflip-game-eight.vercel.app/)
 
 ## Features
 
